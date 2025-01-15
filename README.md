@@ -1,6 +1,6 @@
 # App Layout
 
-Sistemma desenvolvido como atividade do curso Desenvolvimento WEB.
+Sistema desenvolvido como atividade do curso Desenvolvimento WEB.
 
 ## Getting Started
 
